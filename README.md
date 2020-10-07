@@ -3,7 +3,7 @@
 My name is Mohammad Narmestani, and I am an IT Engineer from Tehran, Iran. 🇮🇷
 
 I am eager to learn new things. Passionate about tech and networks in general, I have a deep interest in everything related to the Artificial intelligence .
-The technologies I am mostly familiar with are Python, R and looking into JavaScript.
+The technologies I am mostly familiar with are Python, R and looking into ELK stack.
 
 I’m currently learning deep learning and machine learning.📖🌱
 
