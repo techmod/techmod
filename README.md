@@ -1,4 +1,4 @@
-### Hi there! <img src="(https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif)" width="30px">
+### Hi there!
 
 My name is Mohammad Narmestani, and I am an IT Engineer from Tehran, Iran. 🇮🇷
 
