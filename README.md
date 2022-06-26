@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
+### Hi there! <img src="(https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif)" width="30px">
 
 My name is Mohammad Narmestani, and I am an IT Engineer from Tehran, Iran. 🇮🇷
 
