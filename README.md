@@ -2,13 +2,6 @@
 
 My name is Mohammad Narmestani, and I am an IT Engineer from Tehran, Iran. 🇮🇷
 
-I am eager to learn new things. Passionate about tech and networks in general, I have a deep interest in everything related to the Artificial intelligence .
-The technologies I am mostly familiar with are Python, R and looking into ELK stack.
-
-I’m currently learning deep learning and machine learning.📖🌱
-
-I believe in tech and programming as a way to improve people lives.🤗
-
 ### 🧰 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -23,8 +16,6 @@ I believe in tech and programming as a way to improve people lives.🤗
 ### 📫 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/mohammad-narmestani/) 👨💼
-- [Website](https://narmestani.com) 😏🔗
-
 
 
 ### My GitHub stats
