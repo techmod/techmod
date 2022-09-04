@@ -2,7 +2,7 @@
 
 My name is Mohammad Narmestani, and I am an IT Engineer from Tehran, Iran. 🇮🇷
 
-### 🧰 Technologies & Tools:
+### 🧰 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
