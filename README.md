@@ -13,10 +13,6 @@ My name is Mohammad Narmestani, and I am an IT Engineer from Tehran, Iran. 🇮�
 ![](https://img.shields.io/badge/Scripting-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=VMware&logoColor=white&color=2bbc8a)
 
-### 📫 Where to find me
-
-- [LinkedIn](https://www.linkedin.com/in/mohammad-narmestani/) 👨💼
-
 
 ### My GitHub stats
 
